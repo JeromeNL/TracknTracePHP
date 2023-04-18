@@ -1,5 +1,5 @@
 <h1>TracknTrace</h1>
-<p>A track & trace solution for webshop owners to send their packages, build with PHP (Laravel)</p>
+<p>A track & trace solution for webshop owners to send their packages, built with PHP (Laravel)</p>
 
 <p>Subject: WebPHP</p>
 
