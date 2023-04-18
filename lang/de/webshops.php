@@ -1,0 +1,26 @@
+<?php
+return [
+    'company' => 'Firma',
+    'create_date' => 'Erstellungsdatum',
+    'more' => 'Mehr',
+    'actions' => 'Aktionen',
+    'create_webshop' => 'Webshop erstellen',
+    'details' => 'Details',
+    'edit' => 'Bearbeiten',
+    'delete' => 'Löschen',
+    'address' => 'Adressdetails',
+    'street' => 'Straße',
+    'housenumber' => 'Hausnummer',
+    'postalcode' => 'Postleitzahl',
+    'place' => 'Ort',
+    'country' => 'Land',
+    'contact_details' => 'Kontaktdetails',
+    'phonenumber' => 'Telefonnummer',
+    'email' => 'E-Mail-Adresse',
+    'submit' => 'Absenden',
+    'address_details' => 'Adressdetails',
+    'save' => 'Speichern',
+    'webshop_create_success' => 'Webshop wurde erfolgreich erstellt',
+    'webshop_edit_success' => 'Webshop wurde erfolgreich bearbeitet',
+    'webshop_delete_success' => 'Webshop wurde erfolgreich gelöscht'
+];

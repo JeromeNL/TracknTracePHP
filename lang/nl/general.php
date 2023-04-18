@@ -1,0 +1,30 @@
+<?php
+return [
+    'english' => 'Engels 🇬🇧',
+    'dutch' => 'Nederlands 🇳🇱',
+    'german' => 'Duits 🇩🇪' ,
+    'deliveries' => 'Verzendingen',
+    'webshops' => 'Webshops',
+    'Pickups' => 'Ophaalmomenten',
+    'usermanagement' => 'Gebruikersbeheer',
+    'welcome' => 'Welkom!',
+    'welcome_message' => 'Welkom op de website van TrackR, de beste track & trace applicatie van de wereld.',
+    'explain' => 'Registreer een account of log in, dan kunt u snel aan de slag!',
+    'login' => 'Inloggen',
+    'register' => 'Registreren',
+    'logout' => 'Uitloggen',
+    'name' => 'Naam',
+    'email' => 'Email',
+    'password' => 'Wachtwoord',
+    'confirm_pw' => 'Bevestig wachtwoord',
+    'roles' => 'Rollen',
+    'loggedin' => 'Je bent ingelogd! Je kunt gebruik maken van alle geweldige functies',
+    'remember' => 'Onthoud mij',
+    'reviewed' => 'Je hebt al een review ingestuurd voor deze verzending.',
+    'thanks_again' => 'Nogmaals dank! We gaan met de feedback aan de slag :)',
+    'leave_review' => 'Laat een review achter!',
+    'review_explain' => 'Met jouw feedback kunnen wij toekomstige bezorgingen nog beter maken!',
+    'rate' => 'beoordeel',
+    'thanksforreview' => 'Bedankt voor je review!'
+
+];
